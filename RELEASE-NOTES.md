@@ -44,6 +44,7 @@ END TEMPLATE-->
 ### Bugfixes
 
 * Fix `Menu` and `NumpadDecimal` key codes on SDL3.
+* Fix Entites moved from nullspace to a grid to a map now correctly wake their physics bodies.
 
 ### Other
 
